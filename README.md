@@ -47,7 +47,9 @@ Mini sitio web **PHP** que demuestra condicionales (`if`, `elseif`, `else`, `swi
    ```
 3. Comparte el enlace público del repositorio.
 
-## Créditos
-- Autor(es): *Agrega aquí tu nombre o el de tu equipo.*
-- Curso/Grupo: *Opcional*
-- Año: <?php echo date('Y'); ?>
+## Equipo 
+- Maria Fernanda Estrada Gutierrez
+- Darinel Roblero Trujillo
+- Moises Cruz Damian 
+-S5B
+
