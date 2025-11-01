@@ -1,10 +1,8 @@
 # Estructuras de Control y Arreglos en PHP
 
-Mini sitio web **PHP** que demuestra condicionales (`if`, `elseif`, `else`, `switch`), bucles (`for`, `while`, `foreach`) y uso de **arreglos** (indexados, asociativos y multidimensionales). Incluye **componentes reutilizables** con `include()` para encabezado, menú y pie de página, además de un **contador de visitas** de sesión.
+Mini sitio web PHP que demuestra condicionales (`if`, `elseif`, `else`, `switch`), bucles (`for`, `while`, `foreach`) y uso de arreglos (indexados, asociativos y multidimensionales). Incluye componentes reutilizables con `include()` para encabezado, menú y pie de página, además de un contador de visitas de sesión.
 
 ## Estructura
-```text
-/
 ├── index.php
 ├── condicionales.php
 ├── bucles.php
@@ -17,8 +15,6 @@ Mini sitio web **PHP** que demuestra condicionales (`if`, `elseif`, `else`, `swi
 │   └── footer.php
 └── img/
     └── .gitkeep
-
-
 
 ## Equipo 
 - Maria Fernanda Estrada Gutierrez
